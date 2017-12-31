@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.vs": true,
+        "**/.vscode": true,
+        "**/Library": true,
+        "**/Temp": true,
+        "**/Build": true,
+        "**/Builds": true
+    }
+}
